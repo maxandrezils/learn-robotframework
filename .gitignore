@@ -1,0 +1,5 @@
+/venv
+/Results/log.html
+/Results/report.html
+/Results/*.png
+/Results/*.xml
